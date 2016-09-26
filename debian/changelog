@@ -1,3 +1,7 @@
+docker-py (1.9.0.2) unstable; urgency=low
+  * Fix packaging bug causing practically empty .deb files.
+ -- Stuart Longland <stuartl@vrt.com.au>  Mon, 26 Sep 2016 15:37:38 +1000
+
 docker-py (1.9.0.1) unstable; urgency=low
 
   * Upstream release 1.9.0
